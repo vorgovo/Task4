@@ -1,7 +1,7 @@
 #include <string>
 #include <cstring>
 #include <vector>
-#include <gtest/gtest.h>
+#include "gtest/gtest.h"
 
 #include "encoder.h"
 #include "decoder.h"
