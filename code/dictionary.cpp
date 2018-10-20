@@ -108,7 +108,7 @@ void dictionary::zero_pos() {
 }
 
 void dictionary::make_step(bool c) {
-    pos = go[c][pos];
+    pos = go[c][pos];   
     is_bad_pos();
 }
 
