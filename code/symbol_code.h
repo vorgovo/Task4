@@ -1,7 +1,3 @@
-//
-// Created by demon1999 on 07.06.18.
-//
-
 #ifndef ARCHIVER_SYMBOL_H
 #define ARCHIVER_SYMBOL_H
 

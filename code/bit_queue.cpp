@@ -1,7 +1,3 @@
-//
-// Created by demon1999 on 06.06.18.
-//
-
 #include <limits>
 #include <iostream>
 #include "bit_queue.h"

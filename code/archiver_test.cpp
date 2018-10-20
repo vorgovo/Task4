@@ -1,6 +1,3 @@
-//
-// Created by demon1999 on 07.06.18.
-//
 #include <string>
 #include <cstring>
 #include <vector>

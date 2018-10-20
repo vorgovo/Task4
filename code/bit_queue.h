@@ -1,7 +1,3 @@
-//
-// Created by demon1999 on 06.06.18.
-//
-
 #ifndef ARCHIVER_BIT_QUEUE_H
 #define ARCHIVER_BIT_QUEUE_H
 

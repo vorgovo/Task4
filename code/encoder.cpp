@@ -1,6 +1,3 @@
-//
-// Created by demon1999 on 05.06.18.
-//
 #include <set>
 #include <iostream>
 #include <cassert>

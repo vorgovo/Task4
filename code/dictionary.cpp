@@ -1,6 +1,3 @@
-//
-// Created by demon1999 on 06.06.18.
-//
 #include "dictionary.h"
 #include <limits>
 #include <set>

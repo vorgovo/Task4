@@ -1,7 +1,3 @@
-//
-// Created by demon1999 on 14.06.18.
-//
-
 #ifndef ARCHIVER_FILE_LIB_H
 #define ARCHIVER_FILE_LIB_H
 
